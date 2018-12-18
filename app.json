@@ -4,11 +4,11 @@
   "env": {
     "NEW_BASE_URL": {
       "description": "Redirect all requests to this URL.",
-      "value": "http://www.example.com"
+      "value": "https://www.example.com"
     },
     "REDIRECT_STATUS": {
       "description": "Redirect with this HTTP status code.",
-      "value": "302"
+      "value": "301"
     }
   }
 }

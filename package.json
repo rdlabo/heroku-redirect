@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenmickles/heroku-redirect.git"
+    "url": "git+https://github.com/rdlabo/heroku-redirect.git"
   },
   "author": "Ken Mickles <ken@37i.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenmickles/heroku-redirect/issues"
+    "url": "https://github.com/rdlabo/heroku-redirect/issues"
   },
-  "homepage": "https://github.com/kenmickles/heroku-redirect#readme"
+  "homepage": "https://github.com/rdlabo/heroku-redirect#readme"
 }
